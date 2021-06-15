@@ -115,8 +115,13 @@ nav .menu{
   
 }
 
-.centre.btns button :first-child:hover{
-  background: black;
-  color: white;
 
+.center .btns button:first-child:hover{
+  background: cyan;
+  color: black;
 }
+.center .btns button:last-child:hover{
+  background: cyan;
+  color: black;
+}
+
